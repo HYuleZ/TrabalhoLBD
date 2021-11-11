@@ -1,0 +1,5 @@
+msgid "Name"
+msgstr "Nome"
+
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, exibindo {{current}} registro(s) de um total de {{count}}"
